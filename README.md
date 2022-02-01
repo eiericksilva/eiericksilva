@@ -1,4 +1,6 @@
-### Olá! me chamo Erick Silva ✌️<br>
+
+# Olá! me chamo Erick Silva ✌️<br>
+#### Iniciante na programação, com interesse voltado para Front-End 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eiericksilva/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eiericksilva/)
@@ -23,3 +25,4 @@
     <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS">
 </div>
+
