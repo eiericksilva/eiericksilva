@@ -6,7 +6,7 @@
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=eiericksilva&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiericksilva)](https://github.com/eiericksilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiericksilva&theme=blue-green)](https://github.com/eiericksilva/github-readme-stats)
 
 ## Tecnologias 
 <div>
