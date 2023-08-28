@@ -4,13 +4,13 @@
 
 <p>Olá, seja bem vindo ao meu GitHub. Me chamo Erick Silva, atualmente cursando Análise e Desenvolvimento de Sistemas e estou focado em me tornar um Desenvolvedor FullStack.</p>
 
-## Contatos
+## Redes Sociais
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eiericksilva/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eiericksilva/)
 [![Portfólio](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://eiericksilva.com.br/)
 
-## Tecnologias:
+## Melhores tecnologias:
 
 <div>
     <div style="margin-bottom: 5px;">
