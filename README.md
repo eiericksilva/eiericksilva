@@ -1,8 +1,11 @@
-### Me chamo Erick Silva, bem vindo ao meu repositório ✌️<br>
+<h3 align="center">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá! Me chamo Erick Silva bem vindo ao meu repositório
+</h3>
+
 
 # Desenvolvedor Web ☕
 
-<p>Olá, seja bem vindo ao meu GitHub. Me chamo Erick Silva, atualmente cursando Análise e Desenvolvimento de Sistemas e estou focado em me tornar um Desenvolvedor FullStack.</p>
+<p>✨ Olá, seja bem vindo ao meu GitHub. Me chamo Erick Silva, atualmente cursando Análise e Desenvolvimento de Sistemas e estou focado em me tornar um Desenvolvedor FullStack.</p>
 
 ## Redes Sociais
 
