@@ -3,7 +3,7 @@
 </h3>
 
 
-# Desenvolvedor Web ☕
+# Desenvolvedor Fullstack e apaixonado por tecnologia ☕
 
 <p>✨ Olá, seja bem vindo ao meu GitHub. Me chamo Erick Silva, atualmente cursando Análise e Desenvolvimento de Sistemas e estou focado em me tornar um Desenvolvedor FullStack.</p>
 
