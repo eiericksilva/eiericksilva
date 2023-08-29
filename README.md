@@ -1,9 +1,9 @@
-<h3 align="center">
+<h3>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá! Me chamo Erick Silva bem vindo ao meu repositório
 </h3>
 
 
-# Desenvolvedor Fullstack e apaixonado por tecnologia ☕
+# Desenvolvedor Fullstack & apaixonado por tecnologia e café 💻☕
 
 <p>✨ Olá, seja bem vindo ao meu GitHub. Me chamo Erick Silva, atualmente cursando Análise e Desenvolvimento de Sistemas e estou focado em me tornar um Desenvolvedor FullStack.</p>
 
