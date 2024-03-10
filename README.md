@@ -1,13 +1,13 @@
 
 <div align="center">
     <h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Bem vindo ao meu repositório</h3>
-    <h1>Desenvolvedor Fullstack, apaixonado por tecnologia & café 💻☕</h2> 
+    <h1>Desenvolvedor Backend, apaixonado por tecnologia & café 💻☕</h2> 
 </div>
 
 Um pouco sobre mim:
 - 🌍 Minas Gerais
-- 💻 Cursando Análise e Desenvolvimento de Sistemas (ADS)
-- 💻 Aproximadamente 2 anos em contato com a Programação
+- 💻 Formado em Análise e Desenvolvimento de Sistemas (ADS)
+- 💻 3 anos de estudo em Programação
 - 📚 Gosto muito de ler, principalmente sobre Crescimento Pessoal e Finanças.
 
 ### Redes Sociais
